@@ -1,6 +1,6 @@
 # Packshift_PackersMovers_clone 
 # Packshift Packers & Movers - Website Clone
-Live Demo URL => https://kuldeep464.github.io/Packshift_PackersMovers_clone/
+Live Demo URL => https://packshift-packers-movers-clone.vercel.app/
 
 This is a **frontend clone** of the Packshift Packers & Movers website, created purely for **learning and practice purposes**.  
 It is **not** the official website and does not represent the real Packshift brand in any way.
